@@ -1,0 +1,47 @@
+table{
+    border-collapse: collapse;
+}
+
+td{
+    padding: 10px;
+    width: 400px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+
+.right{
+    width: 33%;
+    color: #17c1ff;
+
+}
+
+.left{
+    width: 33%;
+    color: #181818;
+}
+
+.middle{
+    width: 33%;
+}
+
+h1{
+    text-align: center;
+    background-color: grey;
+}
+
+body {
+    text-align: center;
+    background-color: #f2f2f2;
+
+}
+
+.entete{
+    background-color: #17c1ff;
+  
+}
+
+.active {
+    color: #17c1ff;
+    font-weight: bold;
+}

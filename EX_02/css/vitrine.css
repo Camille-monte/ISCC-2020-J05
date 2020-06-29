@@ -1,0 +1,130 @@
+
+@font-face{
+    font-family: "font";
+    src: url('../ISCC-2020-J04/assetsS4/nasalization-rg.ttf');
+    
+
+}
+
+h1{
+    font-family: "font";
+    font-size: 40px;
+    color: #27d1ff;
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    height:150px ;
+    color: #ffffff;
+    display: inline-block;
+    background-color: #2e2f30;
+    height: center;
+    margin-right: 50px;
+    background-image: url('assets2/texture-header.jpg');
+    width: 100%;
+    
+    
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    background-color: #2e2f30;
+}
+
+
+@font-face{
+    font-family: "font";
+    src: url('../ISCC-2020-J04/assetsS4/nasalization-rg.ttf');
+
+}
+
+h1{
+    font-family: "font";
+    font-size: 40px;
+    color: #27d1ff;
+    text-align: center;
+
+}
+
+.content{
+    display: inline-block;
+    flex-direction: row;
+    background-color: #2e2f30;
+    white-space: nowrap;
+    line-height: 5cm;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-bottom: 90px;
+    text-align: right;
+
+}
+
+.right{
+    width: 33%;
+    color: #17c1ff;
+
+}
+
+.left{
+    width: 33%;
+    color: #181818;
+}
+
+.middle{
+    width: 33%;
+}
+@font-face{
+    font-family: 'ma_font';
+    src: url('../Open_Sans/OpenSans-Regular.ttf');  
+    font-size: 14px;
+}
+p{
+    font-family: "ma_font";
+    font-size: 14px;
+}
+
+.body{
+   
+    background-color: #f2f2f2;
+    text-align: center;
+   
+
+}
+
+footer{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    width: 100%;
+    color: #e6e6e6;
+}
+
+.p1{
+    margin-right: 10px;
+    margin-left: 10px ;
+    text-align: center;
+    width: 750px;
+}
+
+.Photos{
+    display: flex;
+    width: 100%;
+    margin: 50px 0;
+}
+
+.Photo{
+    width: 50%;
+
+}
+
+.contenu{
+    padding: 0 140px;
+}
+
+.active {
+    color: #17c1ff;
+    font-weight: bold;
+}
